@@ -1,2 +1,3 @@
-# mini-fintech-app-h30g
-Automated issue comment bot repository
+# Mini Fintech App H30G
+
+Automated issue comment bot repository.
